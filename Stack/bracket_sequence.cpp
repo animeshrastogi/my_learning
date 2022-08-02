@@ -1,3 +1,7 @@
+//Lessons learnt:
+//Vector can be used as stack (remember vec.back())
+//Bracket Sequence - use stack
+
 #include<vector>
 #include<iostream>
 #include<string>
